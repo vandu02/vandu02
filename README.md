@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vandu02
-- 👀 I’m interested in Football, Data Science and Traveling 
+- Started my programming journey about four years ago. 
 - 🌱 I’m a 2nd year master student at TUM. 
 - From Mexico :mexico:
 
