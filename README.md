@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vandu02
 - Started my programming journey about four years ago. 
-- 🌱 I’m a 2nd year master student at TUM. 
+- I’m a 2nd year master student at TUM. :books:
 - From Mexico :mexico:
 
 <!---
